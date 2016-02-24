@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="pl-PL" target-language="qps-ploc" original="TabliceADR_Multilingual.prilog.xml" tool-id="MultilingualAppToolkit" product-name="TabliceADR" product-version="1.0.0.0" build-num="0">
+    <header>
+      <tool tool-id="MultilingualAppToolkit" tool-name="Multilingual App Toolkit" tool-version="3.1.1250.0" tool-company="Microsoft" />
+    </header>
+    <body>
+      <group id="Resources">
+        <trans-unit id="Resources\Version\Text" translate="yes" xml:space="preserve">
+          <source>Wersja:</source>
+          <target state="new">Wersja:</target>
+        </trans-unit>
+        <trans-unit id="Resources\Author\Text" translate="yes" xml:space="preserve">
+          <source>Autor:</source>
+          <target state="new">Autor:</target>
+        </trans-unit>
+        <trans-unit id="Resources\zagrSearch\PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Numer rozpoznawczy niebezpieczeństwa</source>
+          <target state="new">Numer rozpoznawczy niebezpieczeństwa</target>
+        </trans-unit>
+        <trans-unit id="Resources\Pivot2\Header" translate="yes" xml:space="preserve">
+          <source>O TABLICACH</source>
+          <target state="new">O TABLICACH</target>
+        </trans-unit>
+        <trans-unit id="Resources\Pivot1\Header" translate="yes" xml:space="preserve">
+          <source>ADR</source>
+          <target state="new">ADR</target>
+        </trans-unit>
+        <trans-unit id="Resources\materialSearch\PlaceholderText" translate="yes" xml:space="preserve">
+          <source>Numer rozpoznawczy materiału</source>
+          <target state="new">Numer rozpoznawczy materiału</target>
+        </trans-unit>
+        <trans-unit id="Resources\AppNameAbout\Text" translate="yes" xml:space="preserve">
+          <source>ADR Tablice</source>
+          <target state="new">ADR Tablice</target>
+        </trans-unit>
+        <trans-unit id="Resources\AppName\Title" translate="yes" xml:space="preserve">
+          <source>ADR Tablice</source>
+          <target state="new">ADR Tablice</target>
+        </trans-unit>
+        <trans-unit id="Resources\AboutTitle\Text" translate="yes" xml:space="preserve">
+          <source>O aplikacji</source>
+          <target state="new">O aplikacji</target>
+        </trans-unit>
+        <trans-unit id="Resources\aboutApp\Label" translate="yes" xml:space="preserve">
+          <source>O aplikacji</source>
+          <target state="new">O aplikacji</target>
+        </trans-unit>
+        <trans-unit id="Resources\aboutADR\Text" translate="yes" xml:space="preserve">
+          <source>Tablica ADR – pomarańczowa odblaskowa tablica informacyjna, umieszczona na pojazdach przewożących substancje niebezpieczne. Zawiera dwa numery rozpoznawcze przewożonej substancji. 
+Obowiązuje w transporcie drogowym w krajach objętych umową ADR. 
+
+Na tablicach ADR znajdują się dwa oznaczenia w formie liczbowej:
+– numer rozpoznawczy niebezpieczeństwa – dwie lub trzy cyfry (w liczniku),
+– numer rozpoznawczy materiału – cztery cyfry (w mianowniku).
+
+Tablica z umieszczonymi na niej numerami rozpoznawczymi stosowana jest przy przewozach materiałów niebezpiecznych w cysternach lub luzem. Przy przewozach w tzw. sztukach przesyłki stosowane są tablice pomarańczowe bez numerów rozpoznawczych.
+
+Wymiar standardowy tablicy to 40x30 cm.</source>
+          <target state="new">Tablica ADR – pomarańczowa odblaskowa tablica informacyjna, umieszczona na pojazdach przewożących substancje niebezpieczne. Zawiera dwa numery rozpoznawcze przewożonej substancji. 
+Obowiązuje w transporcie drogowym w krajach objętych umową ADR. 
+
+Na tablicach ADR znajdują się dwa oznaczenia w formie liczbowej:
+– numer rozpoznawczy niebezpieczeństwa – dwie lub trzy cyfry (w liczniku),
+– numer rozpoznawczy materiału – cztery cyfry (w mianowniku).
+
+Tablica z umieszczonymi na niej numerami rozpoznawczymi stosowana jest przy przewozach materiałów niebezpiecznych w cysternach lub luzem. Przy przewozach w tzw. sztukach przesyłki stosowane są tablice pomarańczowe bez numerów rozpoznawczych.
+
+Wymiar standardowy tablicy to 40x30 cm.</target>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>

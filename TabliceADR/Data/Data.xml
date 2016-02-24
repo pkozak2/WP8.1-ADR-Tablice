@@ -1,0 +1,1896 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<zagrozenia>
+    <zagrozenie>
+    <numer>20</numer>
+    <opis>gaz obojętny</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>22</numer>
+    <opis>gaz schłodzony</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>223</numer>
+    <opis>gaz schłodzony palny</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>225</numer>
+    <opis>gaz schłodzony utleniający (podtrzymujący palenie)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>23</numer>
+    <opis>gaz palny</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>239</numer>
+    <opis>gaz palny mogący powodować samorzutną i gwałtowną reakcję</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>25</numer>
+    <opis>gaz utleniający (podtrzymujący palenie)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>26</numer>
+    <opis>gaz trujący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>263</numer>
+    <opis>gaz trujący, palny</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>265</numer>
+    <opis>gaz trujący i utleniający (podtrzymujący palenie)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>266</numer>
+    <opis>gaz silnie trujący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>268</numer>
+    <opis>gaz trujący i żrący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>286</numer>
+    <opis>gaz żrący i trujący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>30</numer>
+    <opis>ciecz zapalna (temp. zapłonu od 23°C do 100°C)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>33</numer>
+    <opis>ciecz łatwo zapalna (temp. zapłonu niższa od 23°C)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>X333</numer>
+    <opis>ciecz samozapalna reagująca niebezpiecznie z wodą</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>336</numer>
+    <opis>ciecz łatwo zapalna i trująca</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>338</numer>
+    <opis>ciecz łatwo zapalna i żrąca</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>X338</numer>
+    <opis>ciecz łatwo zapalna i żrąca reagująca niebezpiecznie z wodą</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>339</numer>
+    <opis>ciecz łatwo zapalna mogąca powodować samorzutną i gwałtowną reakcję</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>39</numer>
+    <opis>ciecz zapalna mogąca powodować samorzutną i gwałtowną reakcję</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>40</numer>
+    <opis>materiał stały zapalny</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>X423</numer>
+    <opis>materiał stały zapalny reagujący niebezpiecznie z wodą, wydzielający gaz zapalny</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>44</numer>
+    <opis>materiał stały zapalny, w podwyższonej temp., znajdujący się w stanie stopionym</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>446</numer>
+    <opis>materiał stały zapalny i trujący, w podwyższonej temp., znajdujący się w stanie stopionym</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>46</numer>
+    <opis>materiał stały zapalny i trujący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>50</numer>
+    <opis>materiał utleniający (podtrzymujący palenie)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>539</numer>
+    <opis>nadtlenek organiczny zapalny</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>558</numer>
+    <opis>materiał silnie utleniający (podtrzymujący palenie) i żrący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>559</numer>
+    <opis>materiał silnie utleniający (podtrzymujący palenie) i żrący mogący powodować samorzutną i gwałtowną reakcję</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>589</numer>
+    <opis>materiał utleniający (podtrzymujący palenie) i żrący mogący powodować samorzutną i gwałtowną reakcję</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>60</numer>
+    <opis>materiał trujący lub szkodliwy</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>606</numer>
+    <opis>materiał zakaźny</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>63</numer>
+    <opis>materiał trujący lub szkodliwy i zapalny (temp. zapłonu od 21°C do 55°C)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>638</numer>
+    <opis>materiał trujący lub szkodliwy oraz zapalny (temp. zapłonu od 21°C do 55°C) i żrący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>66</numer>
+    <opis>materiał silnie trujący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>663</numer>
+    <opis>materiał silnie trujący i zapalny (temp. zapłonu nie wyższa niż 55°C)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>68</numer>
+    <opis>materiał trujący lub szkodliwy i żrący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>69</numer>
+    <opis>materiał trujący lub szkodliwy mogący powodować samorzutną i gwałtowną reakcję</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>76</numer>
+    <opis>materiał radioaktywny i trujący lub szkodliwy</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>78</numer>
+    <opis>materiał radioaktywny i żrący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>80</numer>
+    <opis>materiał żrący lub wykazujący mniejszy stopień działania żrącego</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>X80</numer>
+    <opis>materiał żrący lub wykazujący mniejszy stopień działania żrącego, reagujący niebezpiecznie z wodą</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>83</numer>
+    <opis>materiał żrący lub wykazujący mniejszy stopień działania żrącego oraz zapalny (temp. zapłonu od 21°C do 55°C)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>839</numer>
+    <opis>materiał żrący lub wykazujący mniejszy stopień działania żrącego oraz zapalny (temp. zapłonu od 21°C do 55°C), mogący powodować samorzutną i gwałtowną reakcję</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>85</numer>
+    <opis>materiał żrący lub wykazujący mniejszy stopień działania żrącego oraz utleniający (podtrzymujący palenie)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>856</numer>
+    <opis>materiał żrący lub wykazujący mniejszy stopień działania żrącego oraz utleniający (podtrzymujący palenie) i trujący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>86</numer>
+    <opis>materiał żrący lub wykazujący mniejszy stopień działania żrącego oraz trujący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>88</numer>
+    <opis>materiał silnie żrący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>X88</numer>
+    <opis>materiał silnie żrący, reagujący niebezpiecznie z woda</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>883</numer>
+    <opis>materiał silnie żrący i zapalny (temp. zapłonu od 21°C do 55°C)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>885</numer>
+    <opis>materiał silnie żrący i utleniający (podtrzymujący palenie)</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>886</numer>
+    <opis>materiał silnie żrący i trujący</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>X886</numer>
+    <opis>materiał silnie żrący i trujący, reagujący niebezpiecznie z wodą</opis>
+   </zagrozenie>
+   <zagrozenie>
+    <numer>89</numer>
+    <opis>materiał żrący lub wykazujący mniejszy stopień działania żrącego, mogący powodować samorzutną i gwałtowną reakcję</opis>
+   </zagrozenie>
+
+     <material>
+    <numer>1001</numer>
+    <opis>Acetylen rozpuszczalny</opis>
+   </material>
+   <material>
+    <numer>1002</numer>
+    <opis>Powietrze sprężone</opis>
+   </material>
+   <material>
+    <numer>1003</numer>
+    <opis>Powietrze ciekłe schłodzone</opis>
+   </material>
+   <material>
+    <numer>1005</numer>
+    <opis>Amoniak</opis>
+   </material>
+   <material>
+    <numer>1006</numer>
+    <opis>Sprężony argon</opis>
+   </material>
+   <material>
+    <numer>1008</numer>
+    <opis>Trójfluorek boru</opis>
+   </material>
+   <material>
+    <numer>1009</numer>
+    <opis>Bromotrójfluorometan (R-13B1)</opis>
+   </material>
+   <material>
+    <numer>1010</numer>
+    <opis>Butadien-1,3</opis>
+   </material>
+   <material>
+    <numer>1011</numer>
+    <opis>Butan</opis>
+   </material>
+   <material>
+    <numer>1012</numer>
+    <opis>Butylen-1</opis>
+   </material>
+   <material>
+    <numer>1013</numer>
+    <opis>Dwutlenek węgla</opis>
+   </material>
+   <material>
+    <numer>1016</numer>
+    <opis>Tlenek węgla</opis>
+   </material>
+   <material>
+    <numer>1017</numer>
+    <opis>Chlor</opis>
+   </material>
+   <material>
+    <numer>1018</numer>
+    <opis>Chlorodwufluorometan (R-22)</opis>
+   </material>
+   <material>
+    <numer>1020</numer>
+    <opis>Chloropięciofluoroetan (R-115)</opis>
+   </material>
+   <material>
+    <numer>1022</numer>
+    <opis>Chlorotrójfluorometan (R-13) (trójfluorochlorometan)</opis>
+   </material>
+   <material>
+    <numer>1023</numer>
+    <opis>Gaz węglowy, sprężony</opis>
+   </material>
+   <material>
+    <numer>1026</numer>
+    <opis>Cyjan</opis>
+   </material>
+   <material>
+    <numer>1027</numer>
+    <opis>Cyklopropan</opis>
+   </material>
+   <material>
+    <numer>1028</numer>
+    <opis>Dwuchlorodwufluorometan (R-12)</opis>
+   </material>
+   <material>
+    <numer>1029</numer>
+    <opis>Dwuchlorofluorometan (R-21)</opis>
+   </material>
+   <material>
+    <numer>1032</numer>
+    <opis>Dwuroetyloamina bezwodna</opis>
+   </material>
+   <material>
+    <numer>1033</numer>
+    <opis>Eter dwumetylowy (tlenek metylu)</opis>
+   </material>
+   <material>
+    <numer>1035</numer>
+    <opis>Etan</opis>
+   </material>
+   <material>
+    <numer>1036</numer>
+    <opis>Etyloamina bezwodna (monoetyloamina)</opis>
+   </material>
+   <material>
+    <numer>1037</numer>
+    <opis>Chlorek etylu (chloroetan)</opis>
+   </material>
+   <material>
+    <numer>1038</numer>
+    <opis>Etylen (schłodzony)</opis>
+   </material>
+   <material>
+    <numer>1039</numer>
+    <opis>Eter metylowo - etylowy</opis>
+   </material>
+   <material>
+    <numer>1040</numer>
+    <opis>Tlenek etylenu z azotem</opis>
+   </material>
+   <material>
+    <numer>1041</numer>
+    <opis>Tlenek etylenu</opis>
+   </material>
+   <material>
+    <numer>1045</numer>
+    <opis>Fluor, sprężony</opis>
+   </material>
+   <material>
+    <numer>1046</numer>
+    <opis>Hel, sprężony</opis>
+   </material>
+   <material>
+    <numer>1048</numer>
+    <opis>Bromowodór</opis>
+   </material>
+   <material>
+    <numer>1049</numer>
+    <opis>Wodór, sprężony</opis>
+   </material>
+   <material>
+    <numer>1050</numer>
+    <opis>Chlorowodór</opis>
+   </material>
+   <material>
+    <numer>1051</numer>
+    <opis>Cyjanowodór</opis>
+   </material>
+   <material>
+    <numer>1052</numer>
+    <opis>Kwas fluorowodorowy bezwodny (fluorowodór)</opis>
+   </material>
+   <material>
+    <numer>1053</numer>
+    <opis>Siarkowodór skroplony</opis>
+   </material>
+   <material>
+    <numer>1055</numer>
+    <opis>Izobutylen (izobuten)</opis>
+   </material>
+   <material>
+    <numer>1056</numer>
+    <opis>Krypton, sprężony</opis>
+   </material>
+   <material>
+    <numer>1057</numer>
+    <opis>Zapalniczki</opis>
+   </material>
+   <material>
+    <numer>1060</numer>
+    <opis>Mieszanina metyloacetylenu/propadienu z węglowodorami (mieszaniny Pl i P2)</opis>
+   </material>
+   <material>
+    <numer>1061</numer>
+    <opis>Metyloamina bezwodna</opis>
+   </material>
+   <material>
+    <numer>1062</numer>
+    <opis>Bromek metylu (bromometan, monobromometan)</opis>
+   </material>
+   <material>
+    <numer>1063</numer>
+    <opis>Chlorek metylu (chlorometan)</opis>
+   </material>
+   <material>
+    <numer>1064</numer>
+    <opis>Merkaptan metylowy (metanotiol)</opis>
+   </material>
+   <material>
+    <numer>1065</numer>
+    <opis>Neon, sprężony</opis>
+   </material>
+   <material>
+    <numer>1066</numer>
+    <opis>Azot, sprężony</opis>
+   </material>
+   <material>
+    <numer>1067</numer>
+    <opis>Dwutlenek azotu NO2 (czterotlenek azotu N2O4)</opis>
+   </material>
+   <material>
+    <numer>1069</numer>
+    <opis>Chlorek nitrozylu (NOCl)</opis>
+   </material>
+   <material>
+    <numer>1070</numer>
+    <opis>Podtlenek azotu N2O (gaz rozweselający)</opis>
+   </material>
+   <material>
+    <numer>1071</numer>
+    <opis>Gaz olejowy, sprężony</opis>
+   </material>
+   <material>
+    <numer>1072</numer>
+    <opis>Tlen, sprężony</opis>
+   </material>
+   <material>
+    <numer>1073</numer>
+    <opis>Tlen (schłodzony)</opis>
+   </material>
+   <material>
+    <numer>1075</numer>
+    <opis>Gaz ziemny, skroplony</opis>
+   </material>
+   <material>
+    <numer>1076</numer>
+    <opis>Tlenochlorek węgla (fosgen)</opis>
+   </material>
+   <material>
+    <numer>1077</numer>
+    <opis>Propylen</opis>
+   </material>
+   <material>
+    <numer>1078</numer>
+    <opis>Mieszaniny F l, F2 i F3</opis>
+   </material>
+   <material>
+    <numer>1079</numer>
+    <opis>Dwutlenek siarki</opis>
+   </material>
+   <material>
+    <numer>1080</numer>
+    <opis>Sześciofluorek siarki</opis>
+   </material>
+   <material>
+    <numer>1083</numer>
+    <opis>Trójmetyloamina</opis>
+   </material>
+   <material>
+    <numer>1085</numer>
+    <opis>Bromek winylu</opis>
+   </material>
+   <material>
+    <numer>1086</numer>
+    <opis>Chlorek winylu</opis>
+   </material>
+   <material>
+    <numer>1087</numer>
+    <opis>Eter metylowinylowy (tlenek metylowinylowy)</opis>
+   </material>
+   <material>
+    <numer>1088</numer>
+    <opis>Acetal (acetal dwuetylowy, dwuetoksy-l,1-etan)</opis>
+   </material>
+   <material>
+    <numer>1089</numer>
+    <opis>Aldehyd octowy (acetaldehyd)</opis>
+   </material>
+   <material>
+    <numer>1090</numer>
+    <opis>Aceton (dwumetyloketon)</opis>
+   </material>
+   <material>
+    <numer>1092</numer>
+    <opis>Akroleina (aldehyd akrylowy, aldehyd allilowy)</opis>
+   </material>
+   <material>
+    <numer>1093</numer>
+    <opis>Akrylonitryl</opis>
+   </material>
+   <material>
+    <numer>1095</numer>
+    <opis>Alkohol skażony (denaturat)</opis>
+   </material>
+   <material>
+    <numer>1098</numer>
+    <opis>Alkohol allilowy</opis>
+   </material>
+   <material>
+    <numer>1099</numer>
+    <opis>Bromek allilu (bromopropylen)</opis>
+   </material>
+   <material>
+    <numer>1100</numer>
+    <opis>Chlorek allilu (chloropropylen)</opis>
+   </material>
+   <material>
+    <numer>1104</numer>
+    <opis>Octan amylu (ester amylowy kwasu octowego)</opis>
+   </material>
+   <material>
+    <numer>1105</numer>
+    <opis>Pentanole I,II,i III-rz.</opis>
+   </material>
+   <material>
+    <numer>1106</numer>
+    <opis>Alkohol amylowy III-rz. i inne alkohole amylowe niż III rz.</opis>
+   </material>
+   <material>
+    <numer>1109</numer>
+    <opis>Mrówczan amylu</opis>
+   </material>
+   <material>
+    <numer>1112</numer>
+    <opis>Azotan amylu</opis>
+   </material>
+   <material>
+    <numer>1113</numer>
+    <opis>Azotan amylu</opis>
+   </material>
+   <material>
+    <numer>1114</numer>
+    <opis>Benzen</opis>
+   </material>
+   <material>
+    <numer>1120</numer>
+    <opis>Alkohol n-butylowy (n-butanol)</opis>
+   </material>
+   <material>
+    <numer>1121</numer>
+    <opis>Alkohol butylowy II-rz. (butanol II-rz.)</opis>
+   </material>
+   <material>
+    <numer>1122</numer>
+    <opis>Alkohol butylowy III-rz. (butanol III-rz., 2-metylo&#45;-2-hydroksypropan, 2-metylopropanol-2)</opis>
+   </material>
+   <material>
+    <numer>1123</numer>
+    <opis>Octan n-butylu (ester butylowy kwasu octowego)</opis>
+   </material>
+   <material>
+    <numer>1124</numer>
+    <opis>Octan II-rz. butylu (ester butylowy II-rz. kwasu octowego)</opis>
+   </material>
+   <material>
+    <numer>1125</numer>
+    <opis>Butyloamina</opis>
+   </material>
+   <material>
+    <numer>1126</numer>
+    <opis>m-Bromobutany (bromek butylu, bromobutany)</opis>
+   </material>
+   <material>
+    <numer>1127</numer>
+    <opis>Chlorek n-butylu</opis>
+   </material>
+   <material>
+    <numer>1128</numer>
+    <opis>Mrówczan n-butylu</opis>
+   </material>
+   <material>
+    <numer>1129</numer>
+    <opis>Aldehyd masłowy (butanal-1)</opis>
+   </material>
+   <material>
+    <numer>1131</numer>
+    <opis>Dwusiarczek węgla</opis>
+   </material>
+   <material>
+    <numer>1133</numer>
+    <opis>Kleje</opis>
+   </material>
+   <material>
+    <numer>1134</numer>
+    <opis>Chlorobenzen (monochlorobenzen)</opis>
+   </material>
+   <material>
+    <numer>1135</numer>
+    <opis>Etylenochlorohydryna (chlorohydryna etylenowa)</opis>
+   </material>
+   <material>
+    <numer>1136</numer>
+    <opis>Destylaty smoły</opis>
+   </material>
+   <material>
+    <numer>1139</numer>
+    <opis>Farby ochronne</opis>
+   </material>
+   <material>
+    <numer>1143</numer>
+    <opis>Aldehyd krotonowy (krotonaldehyd, metyloakroleina)</opis>
+   </material>
+   <material>
+    <numer>1145</numer>
+    <opis>Cykloheksan</opis>
+   </material>
+   <material>
+    <numer>1146</numer>
+    <opis>Cyklopentan</opis>
+   </material>
+   <material>
+    <numer>1147</numer>
+    <opis>Dekahydronaftaleny (dekaliny)</opis>
+   </material>
+   <material>
+    <numer>1148</numer>
+    <opis>Dwuacetonoalkohol (alkohol dwuacetonowy)</opis>
+   </material>
+   <material>
+    <numer>1149</numer>
+    <opis>Eter dwubutylowy (eter n-butylowy)</opis>
+   </material>
+   <material>
+    <numer>1150</numer>
+    <opis>1,2-Dwuchloroetylen (dwuchlorek acetylenu)</opis>
+   </material>
+   <material>
+    <numer>1152</numer>
+    <opis>Dwuchloropentan</opis>
+   </material>
+   <material>
+    <numer>1153</numer>
+    <opis>Eter dietylowy</opis>
+   </material>
+   <material>
+    <numer>1154</numer>
+    <opis>Dwuetyloamina</opis>
+   </material>
+   <material>
+    <numer>1155</numer>
+    <opis>Eter etylowy (eter dwuetylowy, eter siarkowy)</opis>
+   </material>
+   <material>
+    <numer>1156</numer>
+    <opis>Keton dietylowy</opis>
+   </material>
+   <material>
+    <numer>1157</numer>
+    <opis>Keton dwuizobutylowy</opis>
+   </material>
+   <material>
+    <numer>1158</numer>
+    <opis>Dwuizopropyloamina</opis>
+   </material>
+   <material>
+    <numer>1159</numer>
+    <opis>Eter dwuizopropylowy</opis>
+   </material>
+   <material>
+    <numer>1160</numer>
+    <opis>Dwumetyloamina w roztworze wodnym o temperatu¬rze zapłonu niższej niż 21 °C</opis>
+   </material>
+   <material>
+    <numer>1161</numer>
+    <opis>Węglan dwumetylu</opis>
+   </material>
+   <material>
+    <numer>1163</numer>
+    <opis>1,1-Dwumetylohydrazyna (dimetylohydrazyna niesymetryczna, UDMH])</opis>
+   </material>
+   <material>
+    <numer>1165</numer>
+    <opis>Dioksan (eter dwuetylenowy)</opis>
+   </material>
+   <material>
+    <numer>1167</numer>
+    <opis>Eter dwuwinylowy</opis>
+   </material>
+   <material>
+    <numer>1169</numer>
+    <opis>Ekstrakty i aromaty</opis>
+   </material>
+   <material>
+    <numer>1170</numer>
+    <opis>Alkohol etylowy (etanol)</opis>
+   </material>
+   <material>
+    <numer>1172</numer>
+    <opis>Octan etoksyetylowy</opis>
+   </material>
+   <material>
+    <numer>1173</numer>
+    <opis>Octan etylu (ester etylowy kwasu octowego)</opis>
+   </material>
+   <material>
+    <numer>1175</numer>
+    <opis>Etylobenzen</opis>
+   </material>
+   <material>
+    <numer>1176</numer>
+    <opis>Trietylek boru</opis>
+   </material>
+   <material>
+    <numer>1180</numer>
+    <opis>Maślan n-etylu</opis>
+   </material>
+   <material>
+    <numer>1181</numer>
+    <opis>Chlorooctan etylu</opis>
+   </material>
+   <material>
+    <numer>1182</numer>
+    <opis>Chloromrówczan etylu</opis>
+   </material>
+   <material>
+    <numer>1184</numer>
+    <opis>1,2-Dwuchloroetan</opis>
+   </material>
+   <material>
+    <numer>1185</numer>
+    <opis>Etylenoimina</opis>
+   </material>
+   <material>
+    <numer>1190</numer>
+    <opis>Mrówczan etylu</opis>
+   </material>
+   <material>
+    <numer>1193</numer>
+    <opis>Metyloetyloketon (keton etylometylowy)</opis>
+   </material>
+   <material>
+    <numer>1195</numer>
+    <opis>Propionian etylu</opis>
+   </material>
+   <material>
+    <numer>1198</numer>
+    <opis>Formaldehyd</opis>
+   </material>
+   <material>
+    <numer>1199</numer>
+    <opis>Furfurol (furfural, aldehyd furfurylowy)</opis>
+   </material>
+   <material>
+    <numer>1202</numer>
+    <opis>Olej napędowy do silników Diesla (węglowodoryciekłe o temperaturze zapłonu ponad 55 do 100 °C)</opis>
+   </material>
+   <material>
+    <numer>1203</numer>
+    <opis>Benzyna (węglowodory ciekłe o temperaturze zapłonu niższej niż 21 °C)</opis>
+   </material>
+   <material>
+    <numer>1210</numer>
+    <opis>Farby drukarskie o temperaturze zapłonu niższej niż 21 °C oraz o temperaturze zapłonu co najmniej 21 °C zawierające do 30% ciał stałych</opis>
+   </material>
+   <material>
+    <numer>1212</numer>
+    <opis>Alkohol izobutylowy (izobutanol)</opis>
+   </material>
+   <material>
+    <numer>1213</numer>
+    <opis>Octan izobutylu</opis>
+   </material>
+   <material>
+    <numer>1218</numer>
+    <opis>Izopren</opis>
+   </material>
+   <material>
+    <numer>1219</numer>
+    <opis>Alkohol izopropylowy (izopropanol)</opis>
+   </material>
+   <material>
+    <numer>1220</numer>
+    <opis>Octan izopropylu</opis>
+   </material>
+   <material>
+    <numer>1221</numer>
+    <opis>Izopropyloamina</opis>
+   </material>
+   <material>
+    <numer>1222</numer>
+    <opis>Azotan izopropylu</opis>
+   </material>
+   <material>
+    <numer>1223</numer>
+    <opis>Benzyna ciężka, nafta (węglowodory ciekłe o temperaturze zapłonu od 21 do 55 °C)</opis>
+   </material>
+   <material>
+    <numer>1229</numer>
+    <opis>Tlenek mezytylu</opis>
+   </material>
+   <material>
+    <numer>1230</numer>
+    <opis>Alkohol metylowy (karbinol, metanol, spirytus drzewny)</opis>
+   </material>
+   <material>
+    <numer>1231</numer>
+    <opis>Octan metylu</opis>
+   </material>
+   <material>
+    <numer>1234</numer>
+    <opis>Metylal (dwumetoksymetan)</opis>
+   </material>
+   <material>
+    <numer>1235</numer>
+    <opis>Metyloamina w roztworze (monometyloamina w roztworze)</opis>
+   </material>
+   <material>
+    <numer>1238</numer>
+    <opis>Chloromrówczan metylu</opis>
+   </material>
+   <material>
+    <numer>1239</numer>
+    <opis>Chlorodwumetyloeter (eter metylochlorometylowy)</opis>
+   </material>
+   <material>
+    <numer>1242</numer>
+    <opis>Dwuchlorosilan metylu</opis>
+   </material>
+   <material>
+    <numer>1243</numer>
+    <opis>Mrówczan metylu (ester metylowy kwasu mrówkowego)</opis>
+   </material>
+   <material>
+    <numer>1245</numer>
+    <opis>Metyloizobutyloketon</opis>
+   </material>
+   <material>
+    <numer>1247</numer>
+    <opis>Metakrylan metylu</opis>
+   </material>
+   <material>
+    <numer>1248</numer>
+    <opis>Propionian metylu</opis>
+   </material>
+   <material>
+    <numer>1250</numer>
+    <opis>Trójchlorosilan metylu (trójchlorometylosilan)</opis>
+   </material>
+   <material>
+    <numer>1251</numer>
+    <opis>Metylowinyloketon</opis>
+   </material>
+   <material>
+    <numer>1264</numer>
+    <opis>Paraldehyd</opis>
+   </material>
+   <material>
+    <numer>1265</numer>
+    <opis>Izopentan (pentan)</opis>
+   </material>
+   <material>
+    <numer>1274</numer>
+    <opis>Alkohol propylowy (propanol)</opis>
+   </material>
+   <material>
+    <numer>1275</numer>
+    <opis>Aldehyd propionowy (propanal)</opis>
+   </material>
+   <material>
+    <numer>1276</numer>
+    <opis>Octan propylu</opis>
+   </material>
+   <material>
+    <numer>1279</numer>
+    <opis>Dwuchlorek propylenu (1,2-dwuchloropropan)</opis>
+   </material>
+   <material>
+    <numer>1280</numer>
+    <opis>Tlenek propylenu</opis>
+   </material>
+   <material>
+    <numer>1282</numer>
+    <opis>Pirydyna</opis>
+   </material>
+   <material>
+    <numer>1292</numer>
+    <opis>Krzemian etylu</opis>
+   </material>
+   <material>
+    <numer>1294</numer>
+    <opis>Toluen (metylobenzen)</opis>
+   </material>
+   <material>
+    <numer>1295</numer>
+    <opis>Krzemochloroform (trójchlorosilan)</opis>
+   </material>
+   <material>
+    <numer>1296</numer>
+    <opis>Trójetyloamina</opis>
+   </material>
+   <material>
+    <numer>1297</numer>
+    <opis>Trójmetyloamina w roztworze</opis>
+   </material>
+   <material>
+    <numer>1298</numer>
+    <opis>Trójmetylochlorosilan</opis>
+   </material>
+   <material>
+    <numer>1299</numer>
+    <opis>Terpentyna (benzyna lakowa)</opis>
+   </material>
+   <material>
+    <numer>1301</numer>
+    <opis>Octan winylu</opis>
+   </material>
+   <material>
+    <numer>1303</numer>
+    <opis>1,1-Dwuchloroetylen (chlorek winylidenu)</opis>
+   </material>
+   <material>
+    <numer>1307</numer>
+    <opis>Ksyleny (dwumetylobenzen)</opis>
+   </material>
+   <material>
+    <numer>1334</numer>
+    <opis>Naftalen – stały</opis>
+   </material>
+   <material>
+    <numer>1328</numer>
+    <opis>Urotropina</opis>
+   </material>
+   <material>
+    <numer>1344</numer>
+    <opis>Kwas pikrynowy</opis>
+   </material>
+   <material>
+    <numer>1428</numer>
+    <opis>Sód</opis>
+   </material>
+   <material>
+    <numer>1495</numer>
+    <opis>Chloran sodu stały</opis>
+   </material>
+   <material>
+    <numer>1541</numer>
+    <opis>Acetonocyjanohydryna (cyjanohydryna acetonu)</opis>
+   </material>
+   <material>
+    <numer>1547</numer>
+    <opis>Anilina</opis>
+   </material>
+   <material>
+    <numer>1553</numer>
+    <opis>Kwas arsenowy w roztworze wodnym</opis>
+   </material>
+   <material>
+    <numer>1578</numer>
+    <opis>Chloronitrobenzeny</opis>
+   </material>
+   <material>
+    <numer>1580</numer>
+    <opis>Chloropikryna</opis>
+   </material>
+   <material>
+    <numer>1591</numer>
+    <opis>o-Dwuchlorobenzen</opis>
+   </material>
+   <material>
+    <numer>1593</numer>
+    <opis>Chlorek metylenu (dwuchlorometan)</opis>
+   </material>
+   <material>
+    <numer>1594</numer>
+    <opis>Siarczan dwuetylu (siarczan etylu)</opis>
+   </material>
+   <material>
+    <numer>1595</numer>
+    <opis>Siarczan dwumetylu (siarczan metylu)</opis>
+   </material>
+   <material>
+    <numer>1600</numer>
+    <opis>Dwunitrotolueny</opis>
+   </material>
+   <material>
+    <numer>1603</numer>
+    <opis>Bromooctan etylu</opis>
+   </material>
+   <material>
+    <numer>1604</numer>
+    <opis>Etylenodwuamina</opis>
+   </material>
+   <material>
+    <numer>1605</numer>
+    <opis>Dwubromoetan (dwubromek etylenu, bromek etylenu)</opis>
+   </material>
+   <material>
+    <numer>1613</numer>
+    <opis>Cyjanowodór w roztworze wodnym (kwas cyjanowodorowy w roztworze wodnym zawierającym do 20% czystego kwasu)</opis>
+   </material>
+   <material>
+    <numer>1648</numer>
+    <opis>Acetonitryl (cyjanek metylu)</opis>
+   </material>
+   <material>
+    <numer>1649</numer>
+    <opis>Alkilaty ołowiu i ich mieszaniny z organicznymi związkami chlorowców (ciecz etylowa, czteroetylek ołowiu, czterometylek ołowiu)</opis>
+   </material>
+   <material>
+    <numer>1662</numer>
+    <opis>Nitrobenzen</opis>
+   </material>
+   <material>
+    <numer>1664</numer>
+    <opis>m-Nitrotolueny</opis>
+   </material>
+   <material>
+    <numer>1665</numer>
+    <opis>Nitroksyleny</opis>
+   </material>
+   <material>
+    <numer>1670</numer>
+    <opis>Nadchlorometylomerkaptan</opis>
+   </material>
+   <material>
+    <numer>1673</numer>
+    <opis>Fenylenodwuaminy</opis>
+   </material>
+   <material>
+    <numer>1695</numer>
+    <opis>Chloroaceton</opis>
+   </material>
+   <material>
+    <numer>1702</numer>
+    <opis>1,1,2,2-Czterochloroetan</opis>
+   </material>
+   <material>
+    <numer>1708</numer>
+    <opis>Toluidyny</opis>
+   </material>
+   <material>
+    <numer>1709</numer>
+    <opis>2,4-Toluenodwuamina (2,4-dwuaminotoluen)</opis>
+   </material>
+   <material>
+    <numer>1715</numer>
+    <opis>Bezwodnik kwasu octowego</opis>
+   </material>
+   <material>
+    <numer>1717</numer>
+    <opis>Chlorek acetylu</opis>
+   </material>
+   <material>
+    <numer>1727</numer>
+    <opis>Dwufluorek amonu w roztworze (fluorek amonowy kwaśny w roztworze)</opis>
+   </material>
+   <material>
+    <numer>1730</numer>
+    <opis>Pięciochlorek antymonu</opis>
+   </material>
+   <material>
+    <numer>1736</numer>
+    <opis>Chlorek benzoilu</opis>
+   </material>
+   <material>
+    <numer>1738</numer>
+    <opis>Chlorek benzylu</opis>
+   </material>
+   <material>
+    <numer>1742</numer>
+    <opis>Fluorek boru i kwas octowy, zespolone</opis>
+   </material>
+   <material>
+    <numer>1744</numer>
+    <opis>Brom</opis>
+   </material>
+   <material>
+    <numer>1750</numer>
+    <opis>Kwasy chlorooctowe ciekłe (kwas dwuchlorooctowy, kwas jednochlorooctowy)</opis>
+   </material>
+   <material>
+    <numer>1752</numer>
+    <opis>Chlorek chloroacetylu</opis>
+   </material>
+   <material>
+    <numer>1754</numer>
+    <opis>Kwas chlorosulfonowy</opis>
+   </material>
+   <material>
+    <numer>1765</numer>
+    <opis>Chlorek dwuchloroacetylu</opis>
+   </material>
+   <material>
+    <numer>1775</numer>
+    <opis>Kwas fluoroborowy w roztworze wodnym zawierającym do 78% czystego kwasu</opis>
+   </material>
+   <material>
+    <numer>1778</numer>
+    <opis>Kwas krzemofluorowodorowy</opis>
+   </material>
+   <material>
+    <numer>1779</numer>
+    <opis>Kwas mrówkowy zawierający co najmniej 70% czystego kwasu</opis>
+   </material>
+   <material>
+    <numer>1783</numer>
+    <opis>SześciometylenOdwuamina</opis>
+   </material>
+   <material>
+    <numer>1788</numer>
+    <opis>Bromowodór w roztworze (kwas bromowodorowy w roztworze)</opis>
+   </material>
+   <material>
+    <numer>1789</numer>
+    <opis>Kwas solny w roztworze (chlorowodór w roztworze)</opis>
+   </material>
+   <material>
+    <numer>1790</numer>
+    <opis>Kwas fluorowodorowy w roztworze wodnym zawierającym ponad 60%, ale nie więcej niż 85% kwasu fluorowodorowego bezwodnego</opis>
+   </material>
+   <material>
+    <numer>1791</numer>
+    <opis>Podchlorynu roztwór zawierający ponad 50 g aktyw¬nego chloru na litr lub do 50 g aktywnego chloru na litr</opis>
+   </material>
+   <material>
+    <numer>1706</numer>
+    <opis>Mieszaniny nitrozowe kwasu siarkowego zawierające do 30 lub ponad 30% czystego kwasu azotowego</opis>
+   </material>
+   <material>
+    <numer>1802</numer>
+    <opis>Kwas nadchlorowy w roztworze wodnym zawierającym do 50% czystego kwasu</opis>
+   </material>
+   <material>
+    <numer>1808</numer>
+    <opis>Trójbromek fosforu</opis>
+   </material>
+   <material>
+    <numer>1809</numer>
+    <opis>Trójchlorek fosforu</opis>
+   </material>
+   <material>
+    <numer>1810</numer>
+    <opis>Tlenochlorek fosforu</opis>
+   </material>
+   <material>
+    <numer>1814</numer>
+    <opis>Ług potasowy (wodorotlenek potasu)</opis>
+   </material>
+   <material>
+    <numer>1815</numer>
+    <opis>Chlorek propionylu</opis>
+   </material>
+   <material>
+    <numer>1818</numer>
+    <opis>Czterochlorek krzemu</opis>
+   </material>
+   <material>
+    <numer>1819</numer>
+    <opis>Glinian sodu w roztworze</opis>
+   </material>
+   <material>
+    <numer>1824</numer>
+    <opis>Ług sodowy (wodorotlenek sodu w roztworze)</opis>
+   </material>
+   <material>
+    <numer>1828</numer>
+    <opis>Dwuchlorek dwusiarki i dwuchlorek dwusiarki stabilizowany</opis>
+   </material>
+   <material>
+    <numer>1829</numer>
+    <opis>Bezwodnik kwasu siarkowego (trójtlenek siarki)</opis>
+   </material>
+   <material>
+    <numer>1830</numer>
+    <opis>Kwas siarkowy zawierający do 85% czystego kwasu</opis>
+   </material>
+   <material>
+    <numer>1831</numer>
+    <opis>Oleum (kwas siarkowy dymiący)</opis>
+   </material>
+   <material>
+    <numer>1832</numer>
+    <opis>Kwas siarkowy odpadkowy, całkowicie zdenitrowany</opis>
+   </material>
+   <material>
+    <numer>1834</numer>
+    <opis>Chlorek sulfurylu</opis>
+   </material>
+   <material>
+    <numer>1836</numer>
+    <opis>Chlorek tionylu</opis>
+   </material>
+   <material>
+    <numer>1838</numer>
+    <opis>Czterochlorek tytanu</opis>
+   </material>
+   <material>
+    <numer>1842</numer>
+    <opis>Kwas octowy lodowaty i jego roztwory zawierające ponad 80% czystego kwasu</opis>
+   </material>
+   <material>
+    <numer>1846</numer>
+    <opis>Czterochlorek węgla (czterochlorometan)</opis>
+   </material>
+   <material>
+    <numer>1848</numer>
+    <opis>Kwas propionowy</opis>
+   </material>
+   <material>
+    <numer>1849</numer>
+    <opis>Siarczek sodu w roztworze</opis>
+   </material>
+   <material>
+    <numer>1863</numer>
+    <opis>Paliwo lotnicze</opis>
+   </material>
+   <material>
+    <numer>1866</numer>
+    <opis>Żywice w roztworze, w cieczach zapalnych o temperaturze zapłonu niższej niż 21 °C lub o temperaturze zapłonu od 21 do 100 °C z zawartością do 30%) żywicy</opis>
+   </material>
+   <material>
+    <numer>1873</numer>
+    <opis>Kwas nadchlorowy w roztworze wodnym zawierającym ponad 50%, ale nie więcej niż 72,5% czystego kwasu</opis>
+   </material>
+   <material>
+    <numer>1886</numer>
+    <opis>Chlorek benzylidenu</opis>
+   </material>
+   <material>
+    <numer>1888</numer>
+    <opis>Chloroform (trójchlorometan)</opis>
+   </material>
+   <material>
+    <numer>1891</numer>
+    <opis>Bromek etylu (bromoetan)</opis>
+   </material>
+   <material>
+    <numer>1908</numer>
+    <opis>Chloryn sodu w roztworze</opis>
+   </material>
+   <material>
+    <numer>1915</numer>
+    <opis>Cykloheksanon</opis>
+   </material>
+   <material>
+    <numer>1916</numer>
+    <opis>2,2-Dwuchloroetyloeter (eter dwuchloroetylowy)</opis>
+   </material>
+   <material>
+    <numer>1917</numer>
+    <opis>Akrylan etylu</opis>
+   </material>
+   <material>
+    <numer>1918</numer>
+    <opis>Kumen (izopropylobenzen)</opis>
+   </material>
+   <material>
+    <numer>1919</numer>
+    <opis>Akrylan metylu</opis>
+   </material>
+   <material>
+    <numer>1921</numer>
+    <opis>Propylenoimina</opis>
+   </material>
+   <material>
+    <numer>1935</numer>
+    <opis>Cyjanki nieorganiczne w roztworach</opis>
+   </material>
+   <material>
+    <numer>1940</numer>
+    <opis>Kwas tioglikolowy</opis>
+   </material>
+   <material>
+    <numer>1951</numer>
+    <opis>Argon (schłodzony)</opis>
+   </material>
+   <material>
+    <numer>1958</numer>
+    <opis>Dwuchloroczterofluoroetan (R 114)</opis>
+   </material>
+   <material>
+    <numer>1959</numer>
+    <opis>1,1-Dwufluoroetylen (R 1132a)</opis>
+   </material>
+   <material>
+    <numer>1962</numer>
+    <opis>Etylen</opis>
+   </material>
+   <material>
+    <numer>1963</numer>
+    <opis>Hel ciekły (schłodzony)</opis>
+   </material>
+   <material>
+    <numer>1965</numer>
+    <opis>Mieszaniny węglowodorów (gazy skroplone), mieszaniny A, AO, Al, B i C</opis>
+   </material>
+   <material>
+    <numer>1969</numer>
+    <opis>Izobutan</opis>
+   </material>
+   <material>
+    <numer>1972</numer>
+    <opis>Gaz ziemny (metan) schłodzony</opis>
+   </material>
+   <material>
+    <numer>1973</numer>
+    <opis>Mieszanina gazów R 502</opis>
+   </material>
+   <material>
+    <numer>1974</numer>
+    <opis>Bromochlorodwufluorometan (chlorodwufluorobromometan) (R 12 B1)</opis>
+   </material>
+   <material>
+    <numer>1977</numer>
+    <opis>Azot (schłodzony)</opis>
+   </material>
+   <material>
+    <numer>1978</numer>
+    <opis>Propan</opis>
+   </material>
+   <material>
+    <numer>1984</numer>
+    <opis>Trójfluorometan (R 23) (fluoroform)</opis>
+   </material>
+   <material>
+    <numer>1987</numer>
+    <opis>Alkohole ciekłe nie trujące, czyste lub w mieszaninach (alkohol 2-etylobutylowy, alkohol 2-etyloheksylowy, heptanole, heksanole, oktanole)</opis>
+   </material>
+   <material>
+    <numer>1989</numer>
+    <opis>Aldehyd heptylowy (heptanal)</opis>
+   </material>
+   <material>
+    <numer>1990</numer>
+    <opis>Benzaldehyd (aldehyd benzoesowy)</opis>
+   </material>
+   <material>
+    <numer>1991</numer>
+    <opis>Chloropren (chlorobutadien)</opis>
+   </material>
+   <material>
+    <numer>2014</numer>
+    <opis>Nadtlenek wodoru w roztworze wodnym zawierającym ponad 6%, ale nie więcej niż 60% nadtlenku wodoru (roztwór nadtlenku wodoru)</opis>
+   </material>
+   <material>
+    <numer>2015</numer>
+    <opis>Nadtlenek wodoru stabilizowany i w roztworze wodnym zawierającym ponad 60% nadtlenku wodoru stabilizowanego</opis>
+   </material>
+   <material>
+    <numer>2019</numer>
+    <opis>Chloroaniliny ciekłe</opis>
+   </material>
+   <material>
+    <numer>2021</numer>
+    <opis>Dwuchlorofenole (o-chlorofenol)</opis>
+   </material>
+   <material>
+    <numer>2022</numer>
+    <opis>Kwas krezolowy</opis>
+   </material>
+   <material>
+    <numer>2023</numer>
+    <opis>Epichlorohydryna</opis>
+   </material>
+   <material>
+    <numer>2029</numer>
+    <opis>Hydrazyna w roztworach wodnych zawierających ponad 64%, ale nie więcej niż 72% hydrazyny</opis>
+   </material>
+   <material>
+    <numer>2030</numer>
+    <opis>Hydrazyna w roztworze wodnym zawierającym nie więcej niż 64% hydrazyny</opis>
+   </material>
+   <material>
+    <numer>2031</numer>
+    <opis>Kwas azotowy zawierający ponad 55%, ale nie więcej niż 70% czystego kwasu</opis>
+   </material>
+   <material>
+    <numer>2032</numer>
+    <opis>Kwas azotowy zawierający ponad 70% czystego kwasu</opis>
+   </material>
+   <material>
+    <numer>2045</numer>
+    <opis>Aldehyd izomasłowy</opis>
+   </material>
+   <material>
+    <numer>2047</numer>
+    <opis>Dwuchloropropen</opis>
+   </material>
+   <material>
+    <numer>2048</numer>
+    <opis>Dwucyklopentadien techniczny</opis>
+   </material>
+   <material>
+    <numer>2849</numer>
+    <opis>Dwuetylobenzen</opis>
+   </material>
+   <material>
+    <numer>2050</numer>
+    <opis>Dwuizobutyleny</opis>
+   </material>
+   <material>
+    <numer>2053</numer>
+    <opis>Metyloizobutylokarbinol (alkohol metyloamylowy)</opis>
+   </material>
+   <material>
+    <numer>2055</numer>
+    <opis>Styren (winylobenzen)</opis>
+   </material>
+   <material>
+    <numer>2056</numer>
+    <opis>Czterowodorofuran (tetrahydrofuran)</opis>
+   </material>
+   <material>
+    <numer>2057</numer>
+    <opis>Propylenu trimer (trój propylen)</opis>
+   </material>
+   <material>
+    <numer>2073</numer>
+    <opis>Amoniak rozpuszczony w wodzie z zawartością ponad 35%, ale nie większą niż 50% amoniaku</opis>
+   </material>
+   <material>
+    <numer>2074</numer>
+    <opis>Akryloamid w roztworze</opis>
+   </material>
+   <material>
+    <numer>2075</numer>
+    <opis>Aldehyd trójchlorooctowy (chloral bezwodny)</opis>
+   </material>
+   <material>
+    <numer>2076</numer>
+    <opis>Krezole (metylofenole)</opis>
+   </material>
+   <material>
+    <numer>2078</numer>
+    <opis>2,4-Toluenodwuizocyjanian (2-4-dwuizocyjanianotoluen)</opis>
+   </material>
+   <material>
+    <numer>2116</numer>
+    <opis>Wodoronadtlenek kumenu zawierający do 95% nadtlenku</opis>
+   </material>
+   <material>
+    <numer>2125</numer>
+    <opis>Wodoronadtlenek p-mentanu zawierający do 95% nadtlenku</opis>
+   </material>
+   <material>
+    <numer>2162</numer>
+    <opis>Wodoronadtlenek pinanu zawierający do 95% nadtlenku</opis>
+   </material>
+   <material>
+    <numer>2171</numer>
+    <opis>Wodoronadtlenek dwuizopropylobenzenu</opis>
+   </material>
+   <material>
+    <numer>2187</numer>
+    <opis>Dwutlenek węgla ciekły (schłodzony)</opis>
+   </material>
+   <material>
+    <numer>2205</numer>
+    <opis>Adyponitryl (nitryl kwasu adypinówego)</opis>
+   </material>
+   <material>
+    <numer>2219</numer>
+    <opis>Eter alliloglicydowy</opis>
+   </material>
+   <material>
+    <numer>2222</numer>
+    <opis>Anizol (metoksybenzen)</opis>
+   </material>
+   <material>
+    <numer>2226</numer>
+    <opis>Chlorek benzylidynu (fenylochloroform)</opis>
+   </material>
+   <material>
+    <numer>2227</numer>
+    <opis>Metakrylan butylu</opis>
+   </material>
+   <material>
+    <numer>2233</numer>
+    <opis>p-Chloro-o-anizydyna</opis>
+   </material>
+   <material>
+    <numer>2238</numer>
+    <opis>Chlorotolueny (o-, m-, p-)</opis>
+   </material>
+   <material>
+    <numer>2243</numer>
+    <opis>Octan cykloheksylu</opis>
+   </material>
+   <material>
+    <numer>2245</numer>
+    <opis>Cyklopentanon</opis>
+   </material>
+   <material>
+    <numer>2248</numer>
+    <opis>Dwu (n-butylo) amina</opis>
+   </material>
+   <material>
+    <numer>2251</numer>
+    <opis>Dwucykloheptadien</opis>
+   </material>
+   <material>
+    <numer>2253</numer>
+    <opis>N.N-Dwumetyloanilina</opis>
+   </material>
+   <material>
+    <numer>2256</numer>
+    <opis>Cykloheksen</opis>
+   </material>
+   <material>
+    <numer>2257</numer>
+    <opis>Potas</opis>
+   </material>
+   <material>
+    <numer>2258</numer>
+    <opis>Propylenodwuamina (1,2-dwuaminopropan)</opis>
+   </material>
+   <material>
+    <numer>2259</numer>
+    <opis>Trójetylenoczteroamina</opis>
+   </material>
+   <material>
+    <numer>2260</numer>
+    <opis>Trójpropyloamina</opis>
+   </material>
+   <material>
+    <numer>2261</numer>
+    <opis>Ksylenole (dwumetylófenole)</opis>
+   </material>
+   <material>
+    <numer>2264</numer>
+    <opis>N.N-Dwumetylocykloheksyloamina</opis>
+   </material>
+   <material>
+    <numer>2269</numer>
+    <opis>Dwupropylenotrójamina</opis>
+   </material>
+   <material>
+    <numer>2270</numer>
+    <opis>Etyloamina w roztworze 50 do 70%</opis>
+   </material>
+   <material>
+    <numer>2271</numer>
+    <opis>Etyloamyloketon</opis>
+   </material>
+   <material>
+    <numer>2272</numer>
+    <opis>N-Etyloanilina</opis>
+   </material>
+   <material>
+    <numer>2276</numer>
+    <opis>2-Etyloheksyloamina</opis>
+   </material>
+   <material>
+    <numer>2277</numer>
+    <opis>Metakrylan etylu</opis>
+   </material>
+   <material>
+    <numer>2279</numer>
+    <opis>Sześciochlorobutadien</opis>
+   </material>
+   <material>
+    <numer>2283</numer>
+    <opis>Metakrylan izobutylu</opis>
+   </material>
+   <material>
+    <numer>2284</numer>
+    <opis>Nitryl kwasu izomasłowego</opis>
+   </material>
+   <material>
+    <numer>2295</numer>
+    <opis>Chlorooctan metylu</opis>
+   </material>
+   <material>
+    <numer>2296</numer>
+    <opis>Metylocykloheksan</opis>
+   </material>
+   <material>
+    <numer>2297</numer>
+    <opis>Metylocykloheksanon</opis>
+   </material>
+   <material>
+    <numer>2298</numer>
+    <opis>Metylocyklopentan</opis>
+   </material>
+   <material>
+    <numer>2299</numer>
+    <opis>Dwuchlorooctan metylu</opis>
+   </material>
+   <material>
+    <numer>2300</numer>
+    <opis>2-Metylo-5-etylopirydyna</opis>
+   </material>
+   <material>
+    <numer>2301</numer>
+    <opis>2-Metylofuran</opis>
+   </material>
+   <material>
+    <numer>2303</numer>
+    <opis>a-Metylostyren (2-fenylopropen)</opis>
+   </material>
+   <material>
+    <numer>2304</numer>
+    <opis>Naftalen w stanie stopionym</opis>
+   </material>
+   <material>
+    <numer>2308</numer>
+    <opis>Kwas nitrozylosiarkowy w roztworze siarkowym</opis>
+   </material>
+   <material>
+    <numer>2311</numer>
+    <opis>Fenetydyny (etoksyaniliny)</opis>
+   </material>
+   <material>
+    <numer>2312</numer>
+    <opis>Fenol stopiony</opis>
+   </material>
+   <material>
+    <numer>2319</numer>
+    <opis>Olejek terpentynowy (terpentyna oczyszczona)</opis>
+   </material>
+   <material>
+    <numer>2321</numer>
+    <opis>Trójchlorobenzeny ciekłe</opis>
+   </material>
+   <material>
+    <numer>2324</numer>
+    <opis>Trójizobutylen</opis>
+   </material>
+   <material>
+    <numer>2325</numer>
+    <opis>1,3,5-Trójmetylobenzen (mezytylen)</opis>
+   </material>
+   <material>
+    <numer>2334</numer>
+    <opis>Alliloamina</opis>
+   </material>
+   <material>
+    <numer>2348</numer>
+    <opis>Akrylan n-butylu</opis>
+   </material>
+   <material>
+    <numer>2353</numer>
+    <opis>Chlorek kwasu masłowego (chlorek butyrylu)</opis>
+   </material>
+   <material>
+    <numer>2356</numer>
+    <opis>Chlorek izopropylu (2-chloropropan)</opis>
+   </material>
+   <material>
+    <numer>2357</numer>
+    <opis>Cykloheksyloamina</opis>
+   </material>
+   <material>
+    <numer>2361</numer>
+    <opis>Dwuizobutyloamina</opis>
+   </material>
+   <material>
+    <numer>2363</numer>
+    <opis>Merkaptan etylowy</opis>
+   </material>
+   <material>
+    <numer>2364</numer>
+    <opis>n-Propylobenzen</opis>
+   </material>
+   <material>
+    <numer>2366</numer>
+    <opis>Węglan dwuetylu</opis>
+   </material>
+   <material>
+    <numer>2367</numer>
+    <opis>Aldehyd ot-metylowalerianówy</opis>
+   </material>
+   <material>
+    <numer>2381</numer>
+    <opis>Dwusiarczek dwumetylu</opis>
+   </material>
+   <material>
+    <numer>2386</numer>
+    <opis>1-Etylopiperydyna</opis>
+   </material>
+   <material>
+    <numer>2387</numer>
+    <opis>Fluorobenzen</opis>
+   </material>
+   <material>
+    <numer>2388</numer>
+    <opis>Fluorotolueny</opis>
+   </material>
+   <material>
+    <numer>2412</numer>
+    <opis>Czterowodorotiofen (tetrahydrotipfen)</opis>
+   </material>
+   <material>
+    <numer>2416</numer>
+    <opis>Boran trójmetylu</opis>
+   </material>
+   <material>
+    <numer>2426</numer>
+    <opis>Azotan amonu, gorący stężony roztwór wodny</opis>
+   </material>
+   <material>
+    <numer>2427</numer>
+    <opis>Chloran potasu w roztworze</opis>
+   </material>
+   <material> 
+   <numer>2428</numer>
+    <opis>Chloran sodu w roztworze</opis>
+   </material>
+   <material>
+    <numer>2429</numer>
+    <opis>Chloran wapnia w roztworze</opis>
+   </material>
+   <material>
+    <numer>2430</numer>
+    <opis>Alkilofenole</opis>
+   </material>
+   <material>
+    <numer>2431</numer>
+    <opis>o-Anizydyna (o-metoksyanilina)</opis>
+   </material>
+   <material>
+    <numer>2432</numer>
+    <opis>N,N-Dwuetyloanilina (N,N-dwuetylofenyloamina)</opis>
+   </material>
+   <material>
+    <numer>2433</numer>
+    <opis>Chloronitrotolueny</opis>
+   </material>
+   <material>
+    <numer>2438</numer>
+    <opis>Chlorek piwaloilu (chlorek kwasu trójmetylooctowego)</opis>
+   </material>
+   <material>
+    <numer>2442</numer>
+    <opis>Chlorek trójchloroacetylu</opis>
+   </material>
+   <material>
+    <numer>2443</numer>
+    <opis>Tlenotrójchlorek wanadu w roztworze</opis>
+   </material>
+   <material>
+    <numer>2446</numer>
+    <opis>m-Nitrokrezole</opis>
+   </material>
+   <material>
+    <numer>2447</numer>
+    <opis>Fosfor biały stopiony</opis>
+   </material>
+   <material>
+    <numer>2448</numer>
+    <opis>Siarka w stanie stopionym</opis>
+   </material>
+   <material>
+    <numer>2483</numer>
+    <opis>Izocyjanian izopropylu</opis>
+   </material>
+   <material>
+    <numer>2484</numer>
+    <opis>Izocyjanian III-rz. butylu</opis>
+   </material>
+   <material>
+    <numer>2485</numer>
+    <opis>Izocyjanian n-butylu</opis>
+   </material>
+   <material>
+    <numer>2486</numer>
+    <opis>Izocyjanian izobutylu</opis>
+   </material>
+   <material>
+    <numer>2512</numer>
+    <opis>Aminofenole</opis>
+   </material>
+   <material>
+    <numer>2513</numer>
+    <opis>Bromek bromoacetylu</opis>
+   </material>
+   <material>
+    <numer>2514</numer>
+    <opis>Bromobenzen (bromek fenylu)</opis>
+   </material>
+   <material>
+    <numer>2515</numer>
+    <opis>Bromoform</opis>
+   </material>
+   <material>
+    <numer>2516</numer>
+    <opis>Czterobromek węgla</opis>
+   </material>
+   <material>
+    <numer>2517</numer>
+    <opis>1,1,1-Chlorodwufluoroetan (R 142b)</opis>
+   </material>
+   <material>
+    <numer>2520</numer>
+    <opis>Cyklooktadien</opis>
+   </material>
+   <material>
+    <numer>2521</numer>
+    <opis>Dwuketen</opis>
+   </material>
+   <material>
+    <numer>2522</numer>
+    <opis>Metakrylan dwumetyloaminoetylu</opis>
+   </material>
+   <material>
+    <numer>2524</numer>
+    <opis>orto-Mrówczan. etylu</opis>
+   </material>
+   <material>
+    <numer>2525</numer>
+    <opis>Szczawian etylu</opis>
+   </material>
+   <material>
+    <numer>2527</numer>
+    <opis>Akrylan izobutylu</opis>
+   </material>
+   <material>
+    <numer>2528</numer>
+    <opis>Izomaślan izobutylu</opis>
+   </material>
+   <material>
+    <numer>2530</numer>
+    <opis>Bezwodnik kwasu izomasłowego</opis>
+   </material>
+   <material>
+    <numer>2533</numer>
+    <opis>Trójchlorooctan metylu</opis>
+   </material>
+   <material>
+    <numer>2535</numer>
+    <opis>Metylomorfolina</opis>
+   </material>
+   <material>
+    <numer>2536</numer>
+    <opis>Metyloczterowodorofuran</opis>
+   </material>
+   <material>
+    <numer>2539</numer>
+    <opis>Aldehyd oktylowy (oktanal)</opis>
+   </material>
+   <material>
+    <numer>2542</numer>
+    <opis>Trójbutyloamina</opis>
+   </material>
+   <material>
+    <numer>2584</numer>
+    <opis>Kwasy alkilosultonowe lub arylosultonowe zawierające ponad 3% wolnego kwasu siarkowego</opis>
+   </material>
+   <material>
+    <numer>2608</numer>
+    <opis>Nitropropany (mononitropropany)</opis>
+   </material>
+   <material>
+    <numer>2643</numer>
+    <opis>Bromooctan metylu</opis>
+   </material>
+   <material>
+    <numer>2661</numer>
+    <opis>Sześciochloroaceton</opis>
+   </material>
+   <material>
+    <numer>2664</numer>
+    <opis>Bromek metylenu (dwubromometan)</opis>
+   </material>
+   <material>
+    <numer>2669</numer>
+    <opis>Chlorokrezole</opis>
+   </material>
+   <material>
+    <numer>2688</numer>
+    <opis>l-Chloro-3-bromopropan</opis>
+   </material>
+   <material>
+    <numer>2730</numer>
+    <opis>Nitroanizole</opis>
+   </material>
+   <material>
+    <numer>2739</numer>
+    <opis>Bezwodnik kwasu masłowego</opis>
+   </material>
+   <material>
+    <numer>2747</numer>
+    <opis>Chloromrówczan III-rz. butylocykloheksylu</opis>
+   </material>
+   <material>
+    <numer>2748</numer>
+    <opis>Chloromrówczan 2-heksyloetylu</opis>
+   </material>
+   <material>
+    <numer>2758</numer>
+    <opis>Pestycydy na bazie karbaminianu (związki i preparaty) trujące o temperaturze zapłonu niższej niż 32 °C</opis>
+   </material>
+   <material>
+    <numer>2762</numer>
+    <opis>Pestycydy organiczne zawierające chlor (związki i preparaty) trujące o temperaturze zapłonu niższej niż 32 °C</opis>
+   </material>
+</zagrozenia>
